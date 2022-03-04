@@ -1,0 +1,16 @@
+{
+  "name" : "ESP32-CAM-PBModule",
+  "title": "ESP32-CAM-PBModule",
+  "keywords": "esp32,cam, ESP32, CAM, ESP32-CAM",
+  "description": "The ESP32-CAM is a full-featured microcontroller that also has an integrated video camera and microSD card socket.",
+  "git": "https://github.com/PrinceBot-Ratthanin/ESP32-CAM-PBModule/",
+  "author": "Block by PrinceBot",
+  "email": "Print081@gmail.com",
+  "url": "https://github.com/PrinceBot-Ratthanin/ESP32-CAM-PBModule/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "MIT",
+  "image" : "/static/display.jpg",
+  "homepage": "https://www.facebook.com/PrinceBot-326418591174060/"
+}
